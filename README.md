@@ -2,6 +2,11 @@
 
 **write a program that reads a word and prints the first and last characters of the word on two lines.**
 
+Input: qwerty
+
+Output: q
+        y
+
 Question Explanation:
 
 This program is designed to read a word and print its first and last characters on separate lines. 
