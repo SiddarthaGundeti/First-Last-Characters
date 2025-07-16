@@ -5,7 +5,6 @@
 Input: qwerty
 
 Output: q
-        
         y
 
 Question Explanation:
